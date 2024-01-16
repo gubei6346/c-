@@ -1,6 +1,2 @@
-﻿  test5.c
-D:\Code\github\c-\c-\learn-c\learn-c\test5.c(37,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
-  D:\Code\github\c-\c-\learn-c\learn-c\test5.c(37,9):
-  请考虑在格式字符串中使用“%zd”
-  
+﻿  test6.c
   learn-c.vcxproj -> D:\Code\github\c-\c-\learn-c\x64\Debug\learn-c.exe
