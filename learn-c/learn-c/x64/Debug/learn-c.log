@@ -1,3 +1,2 @@
-﻿  test1.c
-D:\Code\github\c-\c-\learn-c\learn-c\test1.c(12,17): warning C4013: “strlen”未定义；假设外部返回 int
+﻿  test01.c
   learn-c.vcxproj -> D:\Code\github\c-\c-\learn-c\x64\Debug\learn-c.exe

@@ -13,37 +13,46 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\learn1">
+      <UniqueIdentifier>{be15c7ff-dde0-43c9-8b70-bc89dec391eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\learn2">
+      <UniqueIdentifier>{13aab3c7-3f84-4268-ac97-b6167c716b94}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test1.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\learn1</Filter>
     </ClCompile>
     <ClCompile Include="test2.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\learn1</Filter>
     </ClCompile>
     <ClCompile Include="test3.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\learn1</Filter>
     </ClCompile>
     <ClCompile Include="test4.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\learn1</Filter>
     </ClCompile>
     <ClCompile Include="test5.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\learn1</Filter>
     </ClCompile>
     <ClCompile Include="test6.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\learn1</Filter>
     </ClCompile>
     <ClCompile Include="test7.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\learn1</Filter>
     </ClCompile>
     <ClCompile Include="test8.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\learn1</Filter>
     </ClCompile>
     <ClCompile Include="test9.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\learn1</Filter>
     </ClCompile>
     <ClCompile Include="test10.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\learn1</Filter>
+    </ClCompile>
+    <ClCompile Include="test01.c">
+      <Filter>源文件\learn2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
