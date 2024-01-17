@@ -1,13 +1,13 @@
 //关键字
-#define _CRT_SECURE_NO_WARNINGS 1
+/*#define _CRT_SECURE_NO_WARNINGS 1
 #include <stdio.h>
-typedef unsigned int u_int;//类型重定义  unsigned int
+typedef unsigned int u_int;*///类型重定义  unsigned int
 //void test() {//static修饰局部变量
 //	static int a = 1;//a 不会被销毁
 //	a++;
 //	printf("%d\n", a);
 //}
-int main() {
+//int main() {
 	/*register int a = 100;*///建议存储到寄存器中
 
 	//typedef 类型重定义
@@ -36,9 +36,9 @@ int main() {
 
 
 	//声明函数
-	extern int Add(int x, int y);
-	int a = 10;
-	int b = 20;
-	int sum = Add(a, b);
-	printf("sum = %d\n", sum);
-}
+//	extern int Add(int x, int y);
+//	int a = 10;
+//	int b = 20;
+//	int sum = Add(a, b);
+//	printf("sum = %d\n", sum);
+//}
