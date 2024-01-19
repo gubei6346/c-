@@ -54,5 +54,14 @@
     <ClCompile Include="test01.c">
       <Filter>源文件\learn2</Filter>
     </ClCompile>
+    <ClCompile Include="test02.c">
+      <Filter>源文件\learn2</Filter>
+    </ClCompile>
+    <ClCompile Include="test03.c">
+      <Filter>源文件\learn2</Filter>
+    </ClCompile>
+    <ClCompile Include="test04.c">
+      <Filter>源文件\learn2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
