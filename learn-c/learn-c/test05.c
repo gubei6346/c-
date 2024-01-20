@@ -1,7 +1,7 @@
 //for—≠ª∑
-#define _CRT_SECURE_NO_WARNINGS 1
-#include <stdio.h>
-int main() {
+//#define _CRT_SECURE_NO_WARNINGS 1
+//#include <stdio.h>
+//int main() {
 	/*for (int i = 0; i <= 10; i++) {
 		printf("%d", i); 
 		
@@ -27,9 +27,9 @@ int main() {
 
 
 	//÷¥––0¥Œ
-	int i = 0;
-	int k = 0;
-	for (i = 0, k = 0; k = 0; i++, k++) {
-		k++;
-	}
-}
+//	int i = 0;
+//	int k = 0;
+//	for (i = 0, k = 0; k = 0; i++, k++) {
+//		k++;
+//	}
+//}
