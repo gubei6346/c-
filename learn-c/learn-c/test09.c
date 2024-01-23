@@ -1,9 +1,9 @@
 //goto”Ôæ‰
-#define _CRT_SECURE_NO_WARNINGS 1
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-int main() {
+//#define _CRT_SECURE_NO_WARNINGS 1
+//#include <stdio.h>
+//#include <stdlib.h>
+//#include <string.h>
+//int main() {
 	/*flag:
 	printf("11\n");
 	printf("11\n");
@@ -25,4 +25,4 @@ int main() {
 //	else {
 //		goto again;
 //	}
-}
+//}
