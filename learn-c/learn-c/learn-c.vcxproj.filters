@@ -96,5 +96,8 @@
     <ClCompile Include="test015.c">
       <Filter>源文件\learn2</Filter>
     </ClCompile>
+    <ClCompile Include="test016.c">
+      <Filter>源文件\learn2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

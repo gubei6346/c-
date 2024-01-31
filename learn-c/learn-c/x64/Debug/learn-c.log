@@ -1,2 +1,6 @@
-﻿  test015.c
+﻿  test016.c
+D:\Code\github\c-\c-\learn-c\learn-c\test016.c(14,16): warning C4047: “=”:“int *”与“int”的间接级别不同
+D:\Code\github\c-\c-\learn-c\learn-c\test016.c(12,9): warning C4047: “初始化”:“int”与“int *”的间接级别不同
+D:\Code\github\c-\c-\learn-c\learn-c\test016.c(24,14): warning C4047: “函数”:“int **”与“int [10]”的间接级别不同
+D:\Code\github\c-\c-\learn-c\learn-c\test016.c(24,14): warning C4024: “bubble_sort”: 形参和实参 1 的类型不同
   learn-c.vcxproj -> D:\Code\github\c-\c-\learn-c\x64\Debug\learn-c.exe
