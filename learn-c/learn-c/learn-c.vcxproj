@@ -136,6 +136,8 @@
     <ClCompile Include="test015.c" />
     <ClCompile Include="test016.c" />
     <ClCompile Include="test017.c" />
+    <ClCompile Include="test018.c" />
+    <ClCompile Include="test019.c" />
     <ClCompile Include="test02.c" />
     <ClCompile Include="test03.c" />
     <ClCompile Include="test04.c" />
